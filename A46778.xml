@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iudge Ienkins remonstrance to the Lords and Commons of the two Houses of Parliament, at Westminster, the 21 of February, 1647 by David Ienkins ...</title>
+            <author>Jenkins, David, 1582-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46778</idno>
+            <idno type="STC">Wing J604</idno>
+            <idno type="STC">ESTC R4120</idno>
+            <idno type="EEBO-CITATION">12893118</idno>
+            <idno type="OCLC">ocm 12893118</idno>
+            <idno type="VID">95156</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95156)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 716:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iudge Ienkins remonstrance to the Lords and Commons of the two Houses of Parliament, at Westminster, the 21 of February, 1647 by David Ienkins ...</title>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95156:1"/>
+            <!-- PDF PAGE 78 -->
+            <pb facs="tcp:95156:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <p>IUDGE IENKINS REMONSTRANCE To the Lords and Commons of the two Houſes of Parliament, At WESTMINSTER, the 21. of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> 1647.</p>
+            <p>By DAVID IENKINS, Priſoner in <hi>Newgate.</hi>
+            </p>
+            <p>Printed in the Yeere, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95156:2"/>
+            <!-- PDF PAGE 79 -->
+            <pb n="3" facs="tcp:95156:2"/>
+            <!-- PDF PAGE 79 -->
+            <head>
+               <hi>Judge Jenkins</hi> Remonſtrance, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Deſire that the Lords and Com<g ref="char:EOLhyphen"/>mons of the two Houſes, would be pleaſed to remem<g ref="char:EOLhyphen"/>ber, and that all the good people of England doe take notice of an Order of the houſe of Commons this Seſſion, for publiſhing the Lord <hi>Cookes</hi> bookes, which Order they may finde printed in the laſt leafe of the ſecond part of his Inſtitutes, in theſe words, <hi>(viz.)</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>Die Mercurii 12. May 1641</date>
+                           </dateline>
+                        </opener>
+                        <p>Upon debate this day in the Commons Houſe of Parliament, the ſaid houſe did then deſire and held it fit that the Heire of Sir <hi>Edward Cooke</hi> ſhould publiſh in print the Commentary upon <hi>Magna Charta, the Pleas of the Crowne,</hi> and <hi>the juriſdiction of Courts,</hi> according to the intention of the ſaid Sir <hi>Edward Cooke;</hi> and <hi>that none but the Heire</hi> of the ſaid Sir <hi>Edward Cooke,</hi> or he that ſhall be authorized by him, doe preſume to <hi>pub<g ref="char:EOLhyphen"/>liſh in print</hi> any of the foreſaid bookes, or any coppy thereof.</p>
+                        <closer>
+                           <signed>H. Elſynge Cler. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="4" facs="tcp:95156:3"/>
+               <!-- PDF PAGE 80 -->
+And I doe further deſire them that they would read and peruſe Mr. <hi>Sollicitor Saint-Iohn,</hi> and Mr. <hi>Iohn Pym,</hi> their bookes, publiſhed likewiſe this Seſſion, whoſe ti<g ref="char:EOLhyphen"/>tles are as followeth, <hi>(viz)</hi>
+               <list>
+                  <item>An Argument of Law concerning the Bill of Attainder of High Treaſon of <hi>Thomas</hi> Earle of <hi>Strafford.</hi>
+                     <lb/>
+At a conference in a Committee of both Houſes of Parliament.<lb/>
+By Mr. <hi>Saint-Iohn</hi> His Majeſties Sollicitor Generall.<lb/>
+                     <hi>Publiſhed by Order of the Commons houſe.</hi>
+                     <lb/>
+                     <hi>LONDON,</hi>
+                     <lb/>
+Printed by <hi>G. M.</hi> for <hi>Jo. Bartlet,</hi> at the ſigne of the guilt Cup, neer St. <hi>Auſtins</hi> gate in Pauls Church-yard, 1641.</item>
+                  <item>And the Speech or Declaration of <hi>John Pym</hi> Eſquire, After the recapitulation or ſumming up of the charge of High Treaſon, againſt <hi>Thomas</hi> Earle of <hi>Strafford,</hi> 12 Aprill, 1641.<lb/>
+                     <hi>Publiſhed by the Order of the Commons Houſe.</hi>
+                     <lb/>
+                     <hi>LONDON,</hi> Printed, for <hi>John Bartlet,</hi> 1641.</item>
+               </list>
+            </p>
+            <p n="1">1. NOthing is delivered for Law in my bookes, but what the Houſe of Commons have avowed to be Law in bookes of Law, publiſhed by their com<g ref="char:EOLhyphen"/>mand this Seſſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and agreeable to the bookes of Law, and Statutes of this Realme, in all former times and ages.</p>
+            <p n="2">
+               <pb n="5" facs="tcp:95156:3"/>
+               <!-- PDF PAGE 80 -->
+2. The ſuppoſed offence charged on me, is a<g ref="char:EOLhyphen"/>gainſt the two Houſes; and none ought to be Judges and parties, by the Law of this Land, in their own caſe.</p>
+            <p n="3">3. I deſire the benefit of <hi>Magna Charta, the Petiti<g ref="char:EOLhyphen"/>on of Right,</hi> and other good Lawes of this Land, which ordaine that <hi>all mens tryalls ſhould be by the eſtabliſhed Lawes, and not otherwiſe:</hi> They are the very words of the petition of Right.</p>
+            <p>An Ordinance of both Houſes is no Law of the Land by their owne confeſſion;
+<note place="margin">
+                  <gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Part col. of Ordinances, fol. 7<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. 2. Part inſtit. fol. 47 48. 157 647. 4. Part inſtit. 23. 232. 298. 4. H. 7. 18.</note> and by the bookes of the Lord <hi>Cooke, publiſhed by their Order as aforeſaid</hi> this Seſſion in <hi>ſix</hi> ſeverall places.</p>
+            <p>For <hi>Sedition,</hi> in my bookes there is none, but ſuch as they have <hi>authoriſed this Seſsion, to be publiſhed, and printed:</hi> To publiſh the Law is no ſedition: Theſe Poſitions following I doe ſet downe for the Law of the Land in my bookes, and they themſelves have juſti<g ref="char:EOLhyphen"/>fied, and avowed them as aforeſaid, we agree the Law to be, and to have been in all times in all the particulars following, as here enſueth.</p>
+            <p n="1">1. <hi>To impriſon the King is High Treaſon.</hi>
+               <note place="margin">3. Part inſtit. pag. 12.</note>
+            </p>
+            <p n="2">2. <hi>To remoove Counſellours from the King by force is High Treaſon.</hi>
+               <note place="margin">Mr. Sollicitor. pag. 12. 3. part inſtit. pag. 9. Mr. Pym, pag 28. 3. Part inſtit. 3. 10. 12 16. 3. Parts inſtit. pag 9.</note>
+            </p>
+            <p n="3">3. <hi>To alter the eſtabliſht Lawes in any part by force is High Treaſon.</hi>
+            </p>
+            <p n="4">4. <hi>To uſurpe the Royall power is high Treaſon.</hi>
+            </p>
+            <p n="5">5. <hi>To alter the Religion eſtabliſhed is high Treaſon.</hi>
+            </p>
+            <p n="6">6. <hi>To raiſe rumours and give out words to alienate <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he peoples affections from the King, is high treaſon.</hi>
+               <note place="margin">Mr. Sollicitor. pag. 30. 31. 36.</note>
+            </p>
+            <p n="7">7. <hi>To ſeſſe Souldiers upon the people of the Kingdome without their conſent, is high treaſon.</hi>
+               <note place="margin">Mr. Sollicitor. pag. 9.</note>
+            </p>
+            <p n="8">8.<note place="margin">Mr. Sollicitor. pag. 9.</note> 
+               <hi>The execution of paper orders by Souldiers in a mi<g ref="char:EOLhyphen"/>litary
+<pb n="6" facs="tcp:95156:4"/>
+                  <!-- PDF PAGE 81 -->way,
+<note place="margin">Mr. Soliciter. pag. 24. 4. part. inſtit. p. 125. Iuſtice Huttons argument, fol. 39, 40.</note> is high treaſon.</hi>
+            </p>
+            <p n="9">9. <hi>To counterfeit the great Seale, is high treaſon.</hi>
+            </p>
+            <p n="10">10. <hi>The Commiſsion of Array is in force, and none other.</hi>
+            </p>
+            <p n="11">11. <hi>None can make Iudges,
+<note place="margin">4. part Inſtit.</note> Iuſtices, Sheriffes, &amp;c. but the King: The King makes every Court.</hi>
+            </p>
+            <p n="12">12.<note place="margin">2. part inſtit. arti<g ref="char:EOLhyphen"/>cul. ſuper char<g ref="char:EOLhyphen"/>ta<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cap. 5.</note> 
+               <hi>The great Seale belongs to the Kings cuſtody, or to whom he ſhall appoint, and none other.</hi>
+            </p>
+            <p n="13">13.<note place="margin">1. part. Coll. of Ordin. and Cool<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ut ſupra.</note> 
+               <hi>Ordinances of one or both Houſes are no lawes to bind the people.</hi>
+            </p>
+            <p n="14">14.<note place="margin">4 part inſtit. 25.</note> 
+               <hi>No Priviledge of Parliament holds for treaſon, felony, or breach of the peace,</hi> not for twenty Parliament men, forty, nor three hundred.</p>
+            <p n="15">15.<note place="margin">M. Soliciter. pag. 8. 70. M. Soliciter pag. 12. 27.</note> 
+               <hi>To ſubvert the fundamental Laws, is high treaſon.</hi>
+            </p>
+            <p n="16">16. <hi>To levey warre againſt the perſon of the King, is high treaſon.</hi>
+            </p>
+            <p n="17">17.<note place="margin">M. Soliciter pag. 26.</note> 
+               <hi>To perſwade Forreiners to leavy war, within this Kingdome, is high treaſon.</hi>
+            </p>
+            <p n="18">18.<note place="margin">M. Soliciter pag. 35.</note> 
+               <hi>To impoſe unlawfull taxes, to impoſe new Oathes, i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> high treaſon.</hi>
+            </p>
+            <p n="19">19:<note place="margin">M. Pym pag. 8.</note> 
+               <hi>The King can doe no wrong.</hi>
+            </p>
+            <p n="20">20.<note place="margin">M. Pym pag. 17.</note> 
+               <hi>It is a pernicious doctrine to teach ſubjects, they may be diſcharged from the Oath of Allegeiance.</hi> The what meanes the Doctrine of the Votes of both houſe of the 11. of Febr. 1647.</p>
+            <p n="21">21.<note place="margin">M. Pym pag. 24.</note> 
+               <hi>A neceſsity of a mans owne making, doth not ex<g ref="char:EOLhyphen"/>cuſe him.</hi> The requiring and forcing of the Militi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brought the neceſſity of arming upon the Houſes.</p>
+            <p n="22">22.<note place="margin">3. part inſtit. pag. 9.</note> 
+               <hi>None can leavy warre within this Realme, with out authority from the King for to him onely it belonge<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to leavy warre, by the Common Law of the Land, to d<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> otherwiſe, is high treaſon, by the ſaid Common Law.</hi> Th<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="7" facs="tcp:95156:4"/>
+               <!-- PDF PAGE 81 -->onely quarrell was and is the Militia; for the which ſo much blood hath been ſpent and treaſure.</p>
+            <p>At whoſe dore doth the ſinne lie.</p>
+            <p n="23">23. <hi>No Parliament without the King,
+<note place="margin">M. Soliciter 70. 71. 4. part inſtit. pag. 1. 3. 4. 4. part inſtit. 41. 356.</note> he is Principium caput &amp; finis.</hi>
+            </p>
+            <p n="24">24. <hi>Preſentment or tryall by Iury, is the birthright of the Subject.</hi>
+            </p>
+            <p>There is no doubt but that many in both Houſes are free from this <hi>great ſinne;</hi> and that moſt of the pre<g ref="char:EOLhyphen"/>vailing party, had at firſt no intentions to proceede ſo farre; but the madneſſe of the people (who are very unſtable, and ſo they will finde them) and the ſucceſſe of their armes (having this great rich City to ſupply them, with all accommodations) have ſo elated them, that the evill is come to this height.</p>
+            <p>For my ſelfe, to put me to death in this cauſe, is the greateſt honour I can poſſibly receive in this World: <hi>Dulce &amp; Decorum eſt mori pro patria.</hi> And for a Lawyer and a Judge of the Law, to dye, <hi>Dum ſanctis patriae le<g ref="char:EOLhyphen"/>gibus obſequitur;</hi> for obedience to the Lawes; will be deemed by the good men of this time, a ſweet ſmelling ſacrifice; and by this, and future times, that I dyed full of yeares, and had an honeſt and an honorable end: And poſterity will take knowledge of theſe men, who put ſome to death for ſubverting of the Lawes, and o<g ref="char:EOLhyphen"/>thers for ſupporting of them, &amp;c.</p>
+            <p>Yet Mercy is above all the workes of God,
+<note place="margin">Bracton. lib. 3. cap. 9. pag. 107. 4. part inſtit. 342. 343. Stanford. 99.</note> 
+               <hi>The King is Gods Vicar on earth.</hi> In <hi>Bracton,</hi> who was a Judge in <hi>Hen.</hi> 3. time, you ſhall finde the Kings Oath; <hi>To ſhew mercy,</hi> is part of it: You are all his children; ſay, and doe what you will, you are all his Subjects: and <hi>He is your King,</hi> and Parent: <hi>Pro magno peccato
+<pb n="8" facs="tcp:95156:5"/>
+                  <!-- PDF PAGE 82 -->paululum ſupplicii ſatis eſt patri:</hi> and therefore let not the prevailing party be obdurate, out of a deſperation of ſafety: That which is paſt is not revocable; tak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to your thoughts, your parents, your wives, your chil<g ref="char:EOLhyphen"/>dren, your friends, your fortunes, your countrey<g ref="char:punc">▪</g> wherein forreigners write there is <hi>mira aeris ſuavitat &amp; rerum omnium abundantia:</hi> invite them not hither, the onely way to be free of their company will be, <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reſtore his Majeſty, and receive from him an act of Obli<g ref="char:EOLhyphen"/>vion, a generall Pardon, aſſurance for the arreares of the Souldiery, and meete ſatisfaction to tender conſciences.</hi>
+            </p>
+            <closer>God preſerve the King and the Lawes.<lb/>
+               <signed>
+                  <hi>Da. Ienkins</hi> Priſoner in Newgate.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
